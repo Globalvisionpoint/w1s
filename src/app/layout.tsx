@@ -41,7 +41,7 @@ export default function RootLayout({
             "@graph": [
               {
                 "@type": "Organization",
-                "name": "digital-online.ro",
+                "name": "Digital-Online.ro",
                 "url": "https://digital-online.ro",
                 "logo": "https://digital-online.ro/logo.png",
                 "contactPoint": {
@@ -61,7 +61,7 @@ export default function RootLayout({
                 "description": "Creare Site-uri Pentru Afacerea Ta Fără Abonament",
                 "publisher": {
                   "@type": "Organization",
-                  "name": "digital-online.ro",
+                  "name": "Digital-Online.ro",
                   "logo": {
                     "@type": "ImageObject",
                     "url": "https://digital-online.ro/logo.png"

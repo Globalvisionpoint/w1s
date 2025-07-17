@@ -15,7 +15,7 @@ export default function TermeniSiConditiiPage() {
       <div className="container mx-auto px-4 prose prose-invert max-w-3xl">
         <h1 className="font-headline text-4xl text-white">Termeni și Condiții</h1>
         <p>
-          Bine ați venit la digital-online.ro. Prin utilizarea acestui site, sunteți de acord să respectați și să fiți legat de următorii termeni și condiții de utilizare, care, împreună cu politica noastră de confidențialitate, guvernează relația digital-online.ro cu dumneavoastră în legătură cu acest site web.
+          Bine ați venit la Digital-Online.ro. Prin utilizarea acestui site, sunteți de acord să respectați și să fiți legat de următorii termeni și condiții de utilizare, care, împreună cu politica noastră de confidențialitate, guvernează relația Digital-Online.ro cu dumneavoastră în legătură cu acest site web.
         </p>
         
         <h2 className="font-headline text-2xl text-white">1. Utilizarea Serviciilor</h2>
@@ -30,7 +30,7 @@ export default function TermeniSiConditiiPage() {
         
         <h2 className="font-headline text-2xl text-white">3. Proprietate Intelectuală</h2>
         <p>
-            După plată și livrare, clientul devine proprietarul de drept al codului sursă al site-ului. Digital-online.ro nu revendică niciun drept de proprietate asupra produsului final livrat.
+            După plată și livrare, clientul devine proprietarul de drept al codului sursă al site-ului. Digital-Online.ro nu revendică niciun drept de proprietate asupra produsului final livrat.
         </p>
 
         <p className="mt-8">
