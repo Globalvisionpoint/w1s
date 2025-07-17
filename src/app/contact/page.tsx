@@ -39,7 +39,7 @@ export default function ContactPage() {
               Gata să Începi? <span className="text-primary">Hai să Vorbim!</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto mt-4">
-              Completează formularul de mai jos sau <a href="https://wa.me/40758653550" target="_blank" rel="noopener noreferrer" className="font-bold" style={{ color: '#25D366' }}>WhatsApp</a> și te vom contacta în cel mai scurt timp pentru a discuta despre proiectul tău.
+              Completează formularul de mai jos sau <a href="https://wa.me/40758653550" target="_blank" rel="noopener noreferrer" className="font-bold" style={{ color: '#25D366' }}>scrie-ne pe WhatsApp</a> și te vom contacta în cel mai scurt timp pentru a discuta despre proiectul tău.
             </p>
           </div>
           
