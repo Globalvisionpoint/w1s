@@ -37,7 +37,7 @@ export default function Home() {
     <div className="flex flex-col">
       <section className="relative pt-16 sm:pt-20 pb-6 sm:pb-8 overflow-hidden flex items-center justify-center min-h-[480px]">
         <div className="absolute inset-0 w-full h-full z-0">
-          <div className="w-full h-full bg-[url('/matrix-blue.gif')] bg-cover bg-center opacity-60"></div>
+          <div className="w-full h-full bg-[url('/matrix-blue.webp')] bg-cover bg-center opacity-60"></div>
         </div>
         <div className="container mx-auto px-4 z-10 relative flex flex-col items-center justify-center text-center gap-6">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold font-headline mb-2 tracking-tighter text-white max-w-3xl mx-auto">

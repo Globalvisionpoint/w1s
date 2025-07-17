@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Site de Prezentare Dealer Auto",
     description: "O platformă modernă pentru un dealer auto, cu listări detaliate, căutare avansată și formulare de contact pentru test drive.",
-    imageUrl: "/autobias.png",
+    imageUrl: "/autobias.webp",
     imageHint: "car dealership",
     liveLink: "https://www.autobias.ro/",
     tags: ["Automobile", "Next.js", "Vânzări"],
@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Site de Prezentare pentru Servicii Detailing Auto",
     description: "Website modern pentru prezentarea serviciilor profesionale de detailing auto, cu portofoliu, descriere servicii, galerie foto și formular de contact rapid.",
-    imageUrl: "/detailing-auto.png",
+    imageUrl: "/detailing-auto.webp",
     imageHint: "detailing auto",
     liveLink: "https://cdddetailing.ro/",
     tags: ["Automobile", "Next.js", "Platformă"],
@@ -28,7 +28,7 @@ const projects = [
   {
     title: "Site pentru Pensiune Turistică",
     description: "Soluție completă pentru rezervări online, gestionare camere, evenimente și facilități pentru o pensiune turistică modernă, cu integrare plăți și panou administrare.",
-    imageUrl: "/pensiune-rezervare.png",
+    imageUrl: "/pensiune-rezervare.webp",
     imageHint: "pensiune rezervare",
     liveLink: "https://www.valeasipotului.ro/",
     tags: ["Web App", "Integrare API", "Automatizare"],
@@ -36,7 +36,7 @@ const projects = [
   {
     title: "Site pentru Servicii de Management Hotelier",
     description: "Pagină de prezentare pentru servicii complete de administrare și management al proprietăților în regim hotelier: rezervări online, raportare, asistență 24/7 și listare pe multiple platforme.",
-    imageUrl: "/cityhome.png",
+    imageUrl: "/cityhome.webp",
     imageHint: "management hotelier",
     liveLink: "https://cityhome.ro/",
     tags: ["Site", "Management Hotelier", "Automatizare"],
@@ -44,7 +44,7 @@ const projects = [
   {
     title: "Site pentru Agenție de Turism Online",
     description: "Platformă modernă pentru rezervări online, city break-uri, vacanțe charter, bilete de avion și oferte de cazare, cu consultanți dedicați și cele mai bune prețuri fără taxe ascunse.",
-    imageUrl: "/veltravel.png",
+    imageUrl: "/veltravel.webp",
     imageHint: "agenție de turism",
     liveLink: "https://www.veltravel.ro/",
     tags: ["Turism", "Rezervări Online", "City Break", "Vacanțe"],
@@ -52,7 +52,7 @@ const projects = [
   {
     title: "Site pentru Restaurant",
     description: "Un site apetisant pentru un restaurant, cu meniu online, sistem de rezervări și galerie foto a preparatelor.",
-    imageUrl: "/restaurant.png",
+    imageUrl: "/restaurant.webp",
     imageHint: "restaurant website",
     liveLink: "https://elephantebucharest.com/",
     tags: ["Restaurant", "Rezervări Online", "Local SEO"],

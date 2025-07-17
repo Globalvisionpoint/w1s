@@ -52,7 +52,7 @@ export function Header() {
             <div className="flex items-center">
                  <Button asChild variant="ghost" size="icon" className="hover:bg-transparent">
                     <Link href="https://wa.me/40758653550" target="_blank" rel="noopener noreferrer">
-                        <img src="/whatsappIco.png" alt="WhatsApp" className="h-8 w-8" />
+                        <img src="/whatsappIco.webp" alt="WhatsApp" className="h-8 w-8" />
                         <span className="sr-only">Contact WhatsApp</span>
                     </Link>
                 </Button>
@@ -62,7 +62,7 @@ export function Header() {
         <div className="md:hidden flex items-center">
            <Button asChild variant="ghost" size="icon" className="mr-2 hover:bg-transparent">
                 <Link href="https://wa.me/40758653550" target="_blank" rel="noopener noreferrer">
-                    <img src="/whatsappIco.png" alt="WhatsApp" className="h-8 w-8" />
+                    <img src="/whatsappIco.webp" alt="WhatsApp" className="h-8 w-8" />
                     <span className="sr-only">Contact WhatsApp</span>
                 </Link>
             </Button>
