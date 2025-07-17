@@ -18,23 +18,25 @@ export function ContactForm() {
 
   return (
     <form action="https://formsubmit.co/globalvisionpoint@gmail.com" method="POST" className="space-y-6">
+      <input type="hidden" name="_next" value="/multumim" />
+      <input type="text" name="_honey" style={{ display: "none" }} />
       <div className="space-y-2">
-        <Label htmlFor="name">Nume</Label>
-        <Input id="name" name="name" placeholder="Numele tău" required />
+        <label htmlFor="name">Nume</label>
+        <input id="name" name="name" placeholder="Numele tău" required className="w-full px-3 py-2 rounded border bg-background" />
       </div>
       <div className="space-y-2">
-        <Label htmlFor="email">Email</Label>
-        <Input id="email" name="email" type="email" placeholder="adresa@email.com" required />
+        <label htmlFor="email">Email</label>
+        <input id="email" name="email" type="email" placeholder="adresa@email.com" required className="w-full px-3 py-2 rounded border bg-background" />
       </div>
       <div className="space-y-2">
-        <Label htmlFor="phone">Telefon (Opțional)</Label>
-        <Input id="phone" name="phone" type="tel" placeholder="Numărul tău de telefon" />
+        <label htmlFor="phone">Telefon (Opțional)</label>
+        <input id="phone" name="phone" type="tel" placeholder="Numărul tău de telefon" className="w-full px-3 py-2 rounded border bg-background" />
       </div>
       <div className="space-y-2">
-        <Label htmlFor="message">Mesaj</Label>
-        <Textarea id="message" name="message" placeholder="Spune-ne mai multe despre proiectul tău..." required rows={6} />
+        <label htmlFor="message">Mesaj</label>
+        <textarea id="message" name="message" placeholder="Spune-ne mai multe despre proiectul tău..." required rows={6} className="w-full px-3 py-2 rounded border bg-background" />
       </div>
-      <Button type="submit" className="w-full" size="lg">Trimite Mesajul</Button>
+      <button type="submit" className="w-full bg-primary text-primary-foreground font-bold py-3 rounded">Trimite Mesajul</button>
     </form>
   );
 }
