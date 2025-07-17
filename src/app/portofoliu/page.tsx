@@ -152,6 +152,7 @@ export default function PortofoliuPage() {
                   height={400}
                   className="w-full h-auto object-cover"
                   data-ai-hint={project.imageHint}
+                  priority={project.imageUrl === "/autobias.webp"}
                 />
               </CardHeader>
               <CardContent className="flex-grow p-6">
